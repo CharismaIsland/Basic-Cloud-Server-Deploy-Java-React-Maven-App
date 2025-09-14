@@ -1,0 +1,3 @@
+added backup SSH keys to exsiting droplet in /.ssh/authorized_keys
+
+reference - https://docs.digitalocean.com/products/droplets/how-to/add-ssh-keys/to-existing-droplet/
